@@ -1,0 +1,35 @@
+.Niaz {
+  font-family: Compacta; font-size: 200px;
+  text-align:justify;
+  color:white;
+  letter-spacing: .85em;
+  margin-right:-.85em;
+  display:inline;
+}
+.jumbotron {
+background-image:url('http://25.media.tumblr.com/tumblr_mciklmTkWg1qzb36jo1_1280.gif');
+padding: 20%;
+background-repeat: no-repeat;
+background-size: cover;
+background-attachment: fixed;
+background-position:  center;
+}
+html {font-family: helvetica; background: black; text-align: center;
+}
+  h2 {
+    font-family: Compacta;
+    color:white;
+  }
+  li{
+    text-align: center;
+  }
+img {
+  border: 5px solid black;
+  margin-top: 5%;
+}
+ol {
+  display: inline;
+}
+ul {
+  display: inline;
+}
